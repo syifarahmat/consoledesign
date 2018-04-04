@@ -4,6 +4,13 @@
 	"info": {
 		"active": true,
 		"code": 20180101,
-		"required": true
+		"required": true,
+		"fix": [
+		    "Support connect oracle",
+		    "Support connect hsql",
+		    "Support connect h2",
+		    "Support connect ibm db2",
+		    "Support driver jtopen"
+		]
 	}
 }
