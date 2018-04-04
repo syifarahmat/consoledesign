@@ -2,7 +2,7 @@
 	"success": true,
 	"message": "Aplikasi sudah usang dan harus di perbarui, silahkan menghubungi IT yang bersangkutan",
 	"info": {
-		"active": true,
+		"active": false,
 		"code": 20180101,
 		"required": true
 	}
