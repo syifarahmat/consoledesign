@@ -3,7 +3,7 @@
 	"message": "Aplikasi sudah usang dan harus di perbarui, silahkan menghubungi IT yang bersangkutan",
 	"info": {
 		"active": true,
-		"code": 20180102,
-		"required": false
+		"code": 20180101,
+		"required": true
 	}
 }
