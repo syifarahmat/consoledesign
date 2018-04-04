@@ -4,6 +4,6 @@
 	"info": {
 		"active": true,
 		"code": 20180102,
-		"required": true
+		"required": false
 	}
 }
